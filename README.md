@@ -1,6 +1,6 @@
 # Hi!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Adenilson, a Computer Engineer and Master in Electrical Engineering who is working as a Data Engineer at MadeiraMadeira, in Curitiba, Brazil.
+I'm Adenilson, a Computer Engineer and Master in Electrical Engineering who is working as a Data Science Engineer at Mercado Livre, in Curitiba, Brazil.
 
 As an Engineer, I have a curious&problem solving mind. So my interests range from technology, signal processing, microelectronics, IC circuits conception, VHDL, Python, Data Engineering and many other cool stuffs!
 
